@@ -4,7 +4,7 @@
       <slot />
     </div>
     <div class="my-auto quote-text">
-      <slot name="quote" class="leading-loose"/>
+      <slot name="quote"/>
     </div>
     <div class="my-auto quote-author">
       <slot name="author"/>
