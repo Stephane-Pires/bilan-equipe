@@ -1,8 +1,9 @@
 <template>
 
-
-
-    <div class="star-wars-intro">
+  
+  <div class="star-wars-intro">
+      <img  class="object-fill z-1 absolute" src='/images/starwars-desktop.jpg'/> 
+      
         
         <audio autoplay >
      <source src="/sounds/starwars.mp3" />     
@@ -61,8 +62,8 @@ body, html{
   margin: 0px;
 }
 
+
 .star-wars-intro {
-  background: url("/images/starwars-desktop.jpg") center center;
   width: 100%;
   height: 100%;
   font-family: "Droid Sans", arial, verdana, sans-serif;
@@ -74,11 +75,11 @@ body, html{
 }
 
 .star-wars-intro p.intro-text {
-  position: relative;
+  position: sticky;
   max-width: 16em;
   font-size: 200%;
   font-weight: 400;
-  margin: 20% auto;
+  margin: 20% 30%;
   color: #4ee;
   opacity: 0;
   z-index: 1;
