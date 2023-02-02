@@ -5,7 +5,7 @@
       <img  class="object-fill z-1 absolute" src='/images/starwars-desktop.jpg'/> 
       
         
-        <audio autoplay >
+        <audio autoplay controls class="z-100 absolute bottom-1 right-1 h-5 w-50" >
      <source src="/sounds/starwars.mp3" />     
  </audio>
 <!-- Blue Intro Text -->
