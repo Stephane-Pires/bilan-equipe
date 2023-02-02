@@ -30,6 +30,21 @@
         <slot name="body" />
     </p>
 
+    <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+    <p class="last-content">
+      <slot name="last" />
+    </p>
+
+    
     <!-- button or link or whatever -->
     <!-- <a href="./StarScroll.zip" class="space-button">Download The Code Now!</a> -->
       

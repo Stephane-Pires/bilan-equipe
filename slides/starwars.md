@@ -1,9 +1,12 @@
 ::intro::
-Somewhere near Antony...
+Quelque part en Azeroth...
 
 ::header::
 
-WebApp III
+Ulduar semaine III
 
 ::body::
-A long time ago, in the year 2023, in a galaxy not so far away, there was a company named Analogway. Despite facing challenges such as the COVID pandemic and the shift to remote work, the company managed to thrive and introduce new features, one of which was the highly anticipated LINK. The company saw a change in leadership with Eric Delmas becoming the new CEO, and the team recently received a 4% salary increase. Nevertheless, one member of the team, Stéphane Pires, decided to resign and venture off into new adventures. Before departing, Stéphane wanted to give one final presentation...
+Il y a bien longtemps, dans un monde virtuel très très loin, une guilde nommée "Les copains d'abord" a entamé une quête dans le mythique raid d'Ulduar. Alors qu'ils entrent dans leur troisième semaine de raid, ils ont déjà conquis la version normale et vaincu Yogg-Saron. Maintenant, ils font face à un nouveau défi en attaquant le mode héroïque, avec Thorim comme leur premier boss en HM. C'est aussi l'anniversaire d'un des leurs, Sypsô, alors qu'ils se demandent quels sont les nouveaux défis qui les attendent après le raid canne à pêche et le saut de l'ange audacieux du valheureux Vashallait lors du précédent raid. Sypsô se demande qui il va bien pouvoir fouetter pour ne pas avoir ses enchantements, gemmes, conso, etc...
+
+::last::
+Ah et on recrute 🚀
