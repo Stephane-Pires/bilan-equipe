@@ -62,7 +62,7 @@ body, html{
 }
 
 .star-wars-intro {
-  background: url("images/starwars-desktop.jpg") center center;
+  background: url("/images/starwars-desktop.jpg") center center;
   width: 100%;
   height: 100%;
   font-family: "Droid Sans", arial, verdana, sans-serif;
